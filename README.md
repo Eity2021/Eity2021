@@ -1,5 +1,10 @@
+ 
+ 
+ 
  <h1 align="center">I'm Marufa Akter Eity....</h1>
 
+
+<img align="right" alt="coding" width="400" src="https://cdn.vectorstock.com/i/1000x1000/37/10/back-view-a-girl-with-computer-on-table-vector-34973710.webp">
 - 🔭 I’m currently working on **Personal Portfolio**
 
 - 🌱 I’m currently learning **React Js ,node JS ,Espress JS, Mongodb,**
