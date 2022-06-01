@@ -1,26 +1,26 @@
-###### I'm Marufa Akter Eity....
+## I'm Marufa Akter Eity....
 
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-10142
-Fork on GitHub
-2534
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
 
 preview
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eity2021" alt="eity2021" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eity2021" alt="eity2021" /></a> </p>
+
+- 🔭 I’m currently working on **Personal Portfolio**
+
+- 🌱 I’m currently learning **React Js ,node JS ,Espress JS, Mongodb,**
+
+- 👯 I’m looking to collaborate on **Github**
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **Eity2020@gmail.com**
+
+- ⚡ Fun fact **I am thinking Hard..thats my problem..**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/eity2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eity2021" height="30" width="40" /></a>
