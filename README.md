@@ -1,14 +1,5 @@
 ## I'm Marufa Akter Eity....
 
-
-
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eity2021" alt="eity2021" /></a> </p>
-
 - 🔭 I’m currently working on **Personal Portfolio**
 
 - 🌱 I’m currently learning **React Js ,node JS ,Espress JS, Mongodb,**
@@ -20,6 +11,15 @@
 - 📫 How to reach me **Eity2020@gmail.com**
 
 - ⚡ Fun fact **I am thinking Hard..thats my problem..**
+
+
+
+<h3 align="center">A passionate frontend developer from bangladesh</h3>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eity2021" alt="eity2021" /></a> </p>
+
+
 <h3 align="left">Connect with me:</h3>
 
 
