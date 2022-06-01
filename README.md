@@ -4,7 +4,7 @@
  <h1 align="center">I'm Marufa Akter Eity....</h1>
 
 
-<img align="right" alt="coding" width="400" src="[https://cdn.vectorstock.com/i/1000x1000/37/10/back-view-a-girl-with-computer-on-table-vector-34973710.webp](https://i.pinimg.com/474x/32/5c/f7/325cf722ec54bf7c84b46e355ef89d56.jpg)">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/32/5c/f7/325cf722ec54bf7c84b46e355ef89d56.jpg">
 - 🔭 I’m currently working on **Personal Portfolio**
 
 - 🌱 I’m currently learning **React Js ,node JS ,Espress JS, Mongodb,**
