@@ -13,13 +13,6 @@
 - ⚡ Fun fact **I am thinking Hard..thats my problem..**
 
 
-
-<h3 align="center">A passionate frontend developer from bangladesh</h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eity2021" alt="eity2021" /></a> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 
 
