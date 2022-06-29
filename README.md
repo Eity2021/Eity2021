@@ -6,7 +6,7 @@
 
 <h3 align="center">¯\_(ツ)_/¯
 
- | Full Stack Developer | 
+ | MERN Developer | 
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/32/5c/f7/325cf722ec54bf7c84b46e355ef89d56.jpg">
